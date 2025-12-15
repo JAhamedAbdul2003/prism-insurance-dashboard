@@ -68,8 +68,8 @@ Supports strategic decisions with real-time insights
 
 👤 Author
 
-Ahamed Abdul
-Aspiring Data Analyst | Power BI | SQL | Excel | Python
+Ahamed Abdul Kadhar
+| Aspiring Data Analyst | Power BI | SQL | Excel | Python
 
 🔗 Connect With Me 📧 [faizulahamed256@gmail.com] 
 💼 [https://www.linkedin.com/in/ahamed-abdul-kadhar-b44705301]
